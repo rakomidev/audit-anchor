@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "sN_q3zIcplDSrFQi5_nURlTskh9cVpbfFbASTZwH3WwYLVUkGnFRZ26WJ2CDO5GzIgaLa9UPMdNeaIFxwAY5FY6AVSi2wpUx73CXMPlKiIHEXbPwbomUh7i9a0hSz7EQ1hlkxNj_1g_gGZ4jE8zU5hoZWDSkwIDYl8SStMJrpW25KQwuw_PeTZneJunIFQDrHcly3y4-RqQ8xsdNRXgCNJCR0juXBFcaUCLtStd6WpphNI4kIadDQyvIN1X9p73sCK9FEVEHtsfzsNyDWiK6dgroAAFgVs9qiIMttm38_0spQ3MGQd-ryi9zpq1r1Q2wukyjT5WVVWLdjV7ikH5oNE2Hv1xk0uOqzUuh-JT-z6PMBQVvSMfrhxN6-yvFPGX_ofRBlGByWLpd9glYm2IMIaUse8jcty95KQ_9wzOWjW9UA2cb74qsHSUA0hWfRF_q7xsgjbPAzOnxFcBuKNJ2MB7Xp51iAZslDbTx9-DJaityO4N1_viXxcwILTNeiF8N_j1uEm-TjdPhXKie-Zj690MJpTMFHwyXhuLXwAQtIt7Qlhb2j9cWMoSuS1uHr-r3zaERjVh4tQ_XoCr3bcGsEZbN18OMvTXQo3WrrFDjPARSK5izwqFrHzbZ7ZwwOyIKLwLIgfwiz7vclgSf23J8M2OUl2iFND7l-iuFSNSZP1U",
+      "e": "AQAB",
+      "kid": "agent-anchor-signer-001",
+      "alg": "RS256",
+      "use": "sig"
+    }
+  ]
+}
